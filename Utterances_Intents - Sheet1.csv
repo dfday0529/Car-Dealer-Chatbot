@@ -1,0 +1,51 @@
+Utterance,Intent
+Do you sell new cars?,Inventory Information
+Do you sell used cars?,Inventory Information
+Do you sell Chevrolet?,Chevrolet Information
+Do you sell Ford?,Ford Information
+Do you sell Toyota?,Toyota Information
+I would like a car that gets good gas mileage.,Auto Information
+Why can't I talk to a real person?,Customer Service Complaint
+Do I have to give a deposit?,Financial Information
+Do I need good credit?,Financial Information
+The car that you tried to sell me was a lemon.,Customer Service Complaint
+You undervalued my trade.,Financial Complaint
+The car you tried to sell me was $2000 over book value,Financial Complaint
+You charged me more than the original estimate.,Financial Complaint
+It took you too long to complete the repair.,Service Complaint
+I waited an hour before someone spoke with me.,Customer Service Complaint
+The repair wasn't done correctly.,Service Complaint
+How do I report an employee to the manager?,Customer Service Complaint
+My car had interior stains after it was repaired.,Service Complaint
+I was told that my car needed repairs that it didnt really need.,Service Complaint
+My car was damaged while getting repairs.,Service Complaint
+Your website is complicated,Customer Service Complaint
+Do you sell trucks?,Inventory Information
+Do you sell SUV's,Inventory Information
+Do you accept trade-ins?,Dealer Information
+How often do you get in now inventory?,Inventory Information
+What are your store hours?,Dealer Information
+Do you have different hours on holidays?,Dealer Information
+Do you finance vehicles?,Financial Information
+What is your interest rate for new cars?,Financial Information
+What is your interest rate for used cars?,Financial Information
+Do you have a service department?,Dealer Information
+Do you have a parts department?,Dealer Information
+Do you offer free oil changes?,Dealer Information
+Do you offer any incentives on new cars?,Dealer Information
+Do you offer any incentives on used cars?,Dealer Information
+Your cars are over priced.,Financial Complaint
+Your customer service is bad.,Customer Service Complaint
+Do you offer extended warranties?,Dealer Information
+Do you offer upgrades on new vehicles?,Dealer Information
+Can I order a new vehicle from the manufacturer?,Dealer Information
+How long till the car will be ready for pick-up,Auto Information
+I have been waiting too long for a response.,Customer Service Complaint
+What is your phone number?,Dealer Information
+what is your address?,Dealer Information
+Can I schedule an appointment?,Dealer Information
+Can I schedule a service for my vehicle?,Dealer Information
+What brands do you sell for new cars?,Inventory Information
+Who can I contact with a complaint?,Customer Service Complaint
+Do you offer test drives?,Dealer Information
+I will never do business with this dealership again.,Customer Service Complaint
