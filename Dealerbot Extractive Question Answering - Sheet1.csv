@@ -1,12 +1,12 @@
-intend identifier,sample user question,hard-coded response
-Inventory Information,Do you sell trucks?,yes we do sell trucks
-Chevrolet Information,Do you sell Chevrolet?,yes we do sell chevrolet
-Ford Information,Do you sell Ford?,yes we do sell ford
-Toyota Information,Do you sell Toyota?,yes we do sell toyota
-Auto Information,How long till the car will be ready for pick-up,It will be ready as soon as possible
-Customer Service Complaint,The car that you tried to sell me was a lemon.,I am sorry for your inconvenience
-Financial Information,What is your interest rate for new cars?,"for up to the date information, please contact our sales department"
-Service Complaint,It took you too long to complete the repair.,I am sorry for your inconvenience
-Dealer Information,what is your address?,"3451 Dealer Avenue, Raleigh, NC"
-Parts Department Complaint,The part that I received was not what I ordered.,I am sorry for your inconvenience
-Financial Complaint,Your cars are over priced.,"I am sorry, please contact our sales department"
+intend identifier,sample user question,hard-coded response,Passages
+Inventory Information,Do you sell trucks?,yes we do sell trucks,Ford Dealership Site
+Chevrolet Information,Do you sell Chevrolet?,yes we do sell chevrolet,Chevrolet Dealership Site
+Ford Information,Do you sell Ford?,yes we do sell ford,Ford Dealership Site
+Toyota Information,Do you sell Toyota?,yes we do sell toyota,Toyota Dealership Site
+Auto Information,How long till the car will be ready for pick-up,It will be ready as soon as possible,Car Complaint Site
+Customer Service Complaint,The car that you tried to sell me was a lemon.,I am sorry for your inconvenience,Car Complaint Site
+Financial Information,What is your interest rate for new cars?,"for up to the date information, please contact our sales department",Ford Dealership Site
+Service Complaint,It took you too long to complete the repair.,I am sorry for your inconvenience,Service Complain Site
+Dealer Information,what is your address?,"3451 Dealer Avenue, Raleigh, NC",My Own Passage
+Parts Department Complaint,The part that I received was not what I ordered.,I am sorry for your inconvenience,Chevrolet Dealership  Parts Site
+Financial Complaint,Your cars are over priced.,"I am sorry, please contact our sales department",Ford Dealership Site
