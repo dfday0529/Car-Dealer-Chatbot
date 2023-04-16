@@ -49,4 +49,53 @@ What brands do you sell for new cars?,Inventory Information
 Who can I contact with a complaint?,Customer Service Complaint
 Do you offer test drives?,Dealer Information
 I will never do business with this dealership again.,Customer Service Complaint
-Do you offer insurance?, Dealer Information
+Do you offer insurance?,Dealer Information
+How big is your inventory?,Inventory Information
+Are you a robot?,General Information
+Are you a human?,General Information
+How are you?, General Information
+Help,General Information
+Hey, General Information
+Bye,General Information
+Thank you,General Information
+How do I get to your dealership?,Dealer Information
+This is a waste of my time,General Information
+Please let me talk to a real person,General Information
+I want you to answer me,General Information
+I need help selling my car,Auto Information
+Can you please help me buy a new car?,Auto Information
+Can you please help me buy a used car?,Auto Information
+When will my parts be ready?,Parts Information
+I ordered some parts and I now I need to change the order,Parts Information
+The parts that I ordered were not in the box, Parts Complaint
+The parts that I received were the wrong ones, Parts Complaint
+The parts that I received did not fit, Parts Complaint
+Can I reorder the same parts?,Parts Information
+I need help changing an order that I made,Parts Information
+Which languages do you speak,General Information
+Do you speak spanish,General Information
+Do you speak french,General Information
+Do you speak German,General Information
+What day is it today,General Information
+Do you save what I say,General Information
+What is your name,General Information
+How many people can you speak to at once,General Information
+Do you sell any electric cars,Dealer Information
+Are electric cars safe,Auto Information
+Do you sell hybrid cars,Dealer Information
+Are hybrid cars better than regular cars,Auto Information
+Are electric cars better than regular cars,Auto Information
+Do you have electric cars in your inventory,Inventory Information
+Do you have hybrid cars in your inventory,Inventory Information
+What kind of mileage do electric cars get,Auto Information
+What kind of mileage do hybrid cars get,Auto Information
+Will electric cars explode,Auto Information
+How long does it take to charge and electric car,Auto Information
+Do electric cars have more power than gas cars,Auto Information
+Do gas cars last longer than electric cars,Auto Information
+Do gas cars last longer than hybrid cars,Auto Information
+Do you have any sports cars in stock,Inventory Information
+Do you have any classic cars in stock,Inventory Information
+Will you buy my car even if I dont buy one of your cars,Dealer Information
+Do you offer test drives,Dealer Information
+Do you offer military discounts,Finance Information
