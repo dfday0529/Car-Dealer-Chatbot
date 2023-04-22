@@ -1,9 +1,9 @@
 Utterance,Intent
 Do you sell new cars,Inventory Information
 Do you sell used cars,Inventory Information
-Do you sell Chevrolet,Chevrolet Information
-Do you sell Ford,Ford Information
-Do you sell Toyota,Toyota Information
+Do you sell Chevrolet,Auto Information
+Do you sell Ford,Auto Information
+Do you sell Toyota,Auto Information
 I would like a car that gets good gas mileage,Auto Information
 Why can't I talk to a real person,Customer Service Complaint
 Do I have to give a deposit,Financial Information
@@ -98,4 +98,4 @@ Do you have any sports cars in stock,Inventory Information
 Do you have any classic cars in stock,Inventory Information
 Will you buy my car even if I dont buy one of your cars,Dealer Information
 Do you offer test drives,Dealer Information
-Do you offer military discounts,Finance Information
+Do you offer military discounts,Financial Information
