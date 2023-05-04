@@ -1,4 +1,4 @@
-intend identifier,sample user question,hard-coded response,Passages
+intent identifier,sample user question,hard-coded response,Passages
 Inventory Information,Do you sell trucks?,yes we do sell trucks,Ford Dealership Site
 Chevrolet Information,Do you sell Chevrolet?,yes we do sell chevrolet,Chevrolet Dealership Site
 Ford Information,Do you sell Ford?,yes we do sell ford,Ford Dealership Site
